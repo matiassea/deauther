@@ -44,3 +44,12 @@ https://null-byte.wonderhowto.com/how-to/scan-fake-attack-wi-fi-networks-with-es
 https://blog.podkalicki.com/esp8266-wifi-sniffer/
 
 
+### Writing a Simple ESP8266-Based Sniffer
+
+https://carvesystems.com/news/writing-a-simple-esp8266-based-sniffer/
+
+https://www.youtube.com/watch?v=fmhjtzmLrg8
+
+https://esp8266-arduino-spanish.readthedocs.io/es/latest/esp8266wifi/scan-class.html
+
+
