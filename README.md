@@ -53,3 +53,7 @@ https://www.youtube.com/watch?v=fmhjtzmLrg8
 https://esp8266-arduino-spanish.readthedocs.io/es/latest/esp8266wifi/scan-class.html
 
 
+https://www.crc.id.au/tracking-people-via-wifi-even-when-not-connected/
+
+
+
